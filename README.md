@@ -21,3 +21,5 @@ https://docs.google.com/spreadsheets/d/1DLL6BTXiHHsn1w9NvVi0BZbass0QU0RSvKEXtJlw
 - sklearn library
 - imblearn library
 
+
+## for detailed report click [Report of text classification problem](
