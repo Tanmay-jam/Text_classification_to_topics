@@ -1,7 +1,7 @@
 # Text_classification_to_topics
 It consists of machine learning model developed to classify the text to the topic it belongs. I have primarily used **Naive Bayes** classifier.  
 
-for detailed report click [Report of text classification problem](
+for detailed report click [Report of text classification problem](https://github.com/Tanmay-jam/Text_classification_to_topics/blob/main/Report%20Text%20classification_ROOT2AI.docx)
 
 ## 📄 Description
 
