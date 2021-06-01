@@ -11,10 +11,13 @@ I have used **Naive Bayes classifier** with oversampling and also built a model 
 
 ### Evaluated the model with accuracy, F1 score and confusion matrix
 #### For Naive Bayes
-|                   | accuracy( on test data) | F1 score      |
-| ----------------- | ----------------------- | ------------- |
-| without sampling  |         0.546           |     0.3369    |
-| with sampling     |         0.5914          |     0.5938    |
+|                              | accuracy( on test data) | F1 score      |
+| ---------------------------- | ----------------------- | ------------- |
+| without sampling             |         0.546           |     0.3369    |
+| with random oversampling     |         0.5914          |     0.5938    |
+| with SMOTE                   |         0.6237          |     0.6296    |
+
+Note: SMOTE is not yet added in notebook
 
 ### Limtations of Naive Bayes
 
