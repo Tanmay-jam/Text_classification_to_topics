@@ -17,7 +17,7 @@ I have used **Naive Bayes classifier** with oversampling and also built a model 
 | with random oversampling     |         0.5914          |     0.5938    |
 | with SMOTE                   |         0.6237          |     0.6296    |
 
-Note: SMOTE is not yet added in notebook
+Note: SMOTE is not yet added in the report
 
 ### Limtations of Naive Bayes
 
